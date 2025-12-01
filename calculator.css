@@ -53,6 +53,9 @@ h2{
     display: flex;
     justify-content: center;
 }
+#delete:hover{
+    background-color:  rgb(127, 132, 90);
+}
 .oprationBtn{
     background-color: rgb(240, 169, 37);
 }
